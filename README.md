@@ -42,3 +42,33 @@ The loan date end column has numerous amount of null values.
 The club columns have some rows with unwanted characters
 
 Misspelling in the LongName column
+
+4. Abbreviations Full Meaning
+
+o OVA — overall_rating
+
+o POT — potential_rating
+
+o BOV — best_overall_rating
+
+o W/F — weak_foot_ability
+
+o SM — skill_moves,
+
+o A/W — attacking _workrate
+
+o D/W — defensive_workrate
+
+o IR — injury_resistance
+
+o PAC — pace
+
+o SHO — shooting_ability
+
+o PAS — passing_ability
+
+o DRI — dribbling_ability
+
+o DEF — defensive_ability
+
+o PHYS — physical_strength,
