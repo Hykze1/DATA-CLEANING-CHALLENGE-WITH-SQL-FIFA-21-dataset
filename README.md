@@ -12,10 +12,15 @@ I was excited to participate in the #DataCleaningChallenge organized by Promise 
 2. What to consider when cleaning your data
 
 Incorrect data types
+
 Null entries
+
 Duplicate rows/columns
+
 Misspelling
+
 Missing values
+
 Irrelevant data
-Outliers
+
 Special Characters
