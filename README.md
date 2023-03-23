@@ -24,3 +24,21 @@ Missing values
 Irrelevant data
 
 Special Characters
+
+3. Observations from our previewed data
+
+Number of rows = 18979
+
+Number of columns = 77
+
+SM, IR and W/F columns has special characters which has to be removed.
+
+Height  are not consistent, in the height column, some rows are represented in cm while some are represented in feet/inches. 
+
+The value, Wage and Release clause columns are represented in M and K which are the million and the thousand sign respectively and as well as special characters
+
+The loan date end column has numerous amount of null values.
+
+The club columns have some rows with unwanted characters
+
+Misspelling in the LongName column
